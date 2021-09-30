@@ -1,0 +1,12 @@
+{
+  "semi" :false, 
+// 设置js用单引号
+  "singleQuote": true,
+// 设置缩进2个字符
+  "tabWidth": 2,
+  "trailingComma": "none",
+// 设置200个字符之后转行
+  "printWidth": 300,
+// 设置函数名与括号间加一个空格
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+}
